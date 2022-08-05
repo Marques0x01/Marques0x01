@@ -5,7 +5,7 @@ Fabio Marques <br/>
 
 
 
-# 💻 Techs:
+## 💻 Techs:
 ![Apache Kafka](https://img.shields.io/static/v1?style=for-the-badge&message=Apache+Kafka&color=231F20&logo=Apache+Kafka&logoColor=FFFFFF&label=)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
@@ -24,11 +24,25 @@ Fabio Marques <br/>
 ![MySQL](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=)
 ![Microsoft SQL Server](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+SQL+Server&color=CC2927&logo=Microsoft+SQL+Server&logoColor=FFFFFF&label=)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Marques0x01&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Marques0x01&theme=radical&hide_border=false)<br/>
+## :man_technologist:	Job
+### Software Engineer | Itau Unibanco :bank:	
+<div>
+  Solid experience with software development using the best technologies on the market with AWS Cloud. Currently responsible for the production of end-to-end software (architecture/creation to production).
+</div>
+<br/>
+<div>
+  I am a member of the team that aims to receive “events” with Kafka to consume and process the data in order to make information available to the bank's Tax, Management and Accounting teams.
+</div>
+<br/>
+<div>
+  Knowledge in a wide variety of technologies such as Python, Java (Spring boot), C# (.Net Core), Angular, Kafka, SQL, NoSQL, Git, AWS, etc...
+</div>
 
+## 📊 GitHub Stats: 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Marques0x01&theme=radical&hide_border=false&include_all_commits=false&count_private=false" width=500> <br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Marques0x01&theme=radical&hide_border=false" width=500>
+    <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marques0x01&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width=500>
 </div>
 

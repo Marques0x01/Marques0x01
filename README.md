@@ -24,7 +24,7 @@ Fabio Marques <br/>
 ![MySQL](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=)
 ![Microsoft SQL Server](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+SQL+Server&color=CC2927&logo=Microsoft+SQL+Server&logoColor=FFFFFF&label=)
 
-## :man_technologist:	Job
+## :man_technologist:	Job:
 ### Software Engineer | Itau Unibanco :bank:	
 <div>
   Solid experience with software development using the best technologies on the market with AWS Cloud. Currently responsible for the production of end-to-end software (architecture/creation to production).

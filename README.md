@@ -1,6 +1,9 @@
 <h1 align="center">
-Fabio Marques <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+Fabio Marques <br/>
+  <img src="https://media0.giphy.com/media/lOgu1OnjYF2GHBfRU4/giphy.gif?cid=790b7611657a3ee6b4dfc7b372aeeac7ee0247c692c37b2b&rid=giphy.gif&ct=s" width="150">  
 </h1>
+
+
 
 # 💻 Techs:
 ![Apache Kafka](https://img.shields.io/static/v1?style=for-the-badge&message=Apache+Kafka&color=231F20&logo=Apache+Kafka&logoColor=FFFFFF&label=)
@@ -28,3 +31,8 @@ Fabio Marques <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Marques0x01&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<div align="center">
+  <img src="https://media2.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif?cid=790b76111a19b777ecc84d146fa959f3576603e89e36f06e&rid=giphy.gif&ct=g" width=500>
+</div>
+
